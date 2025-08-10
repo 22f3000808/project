@@ -18,6 +18,8 @@ Everything in this project is created and tested localy using commands as follow
       - uvicorn main:app --reload --port 8000
 - To run client
       - python main.py --background --interval 5
-      - for daemon python3 daemon.py
+- To run daemon file
+        - python3 daemon.py
 - To run frontend
       - npm run dev 
+
