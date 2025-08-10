@@ -1,2 +1,14 @@
 ve-backend
 ve-client
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pid
+*.egg-info
+*.egg
+*.DS_Store
